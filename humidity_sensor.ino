@@ -1,5 +1,5 @@
 /*
-    Example on how to use the DGT-22 sensor in combination with the
+    Example on how to use the DHT-22 sensor in combination with the
     LiquidCrystal Library so the humidity and temperature are printed
     in a LCD display (without I2C)
 */
